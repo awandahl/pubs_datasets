@@ -3,7 +3,7 @@ Links to different datasets of publication metadata and citations
 
 #### [OpenAlex](https://openalex.org/) will replace Microsoft Academic Graph in Dec 2021     
 
-------------------------
+-------------------------
 
 #### [Open Citations](https://opencitations.net/)    
 [COCI](https://opencitations.net/index/coci): the OpenCitations Index of Crossref open DOI-to-DOI citations     
@@ -18,4 +18,4 @@ Builds upon:
 https://fatcat.wiki/  
 see https://guide.fatcat.wiki/
 
------------------------------------
+-------------------------
