@@ -1,7 +1,9 @@
 # pubs_datasets
 Links to different datasets of publication metadata and citations
 
-#### Refcat    
+
+#### Refcat: The Internet Archive Scholar Citation Graph      
+Paper in arXiv: https://arxiv.org/pdf/2110.06595.pdf     
 Builds upon:    
 https://fatcat.wiki/  
 see https://guide.fatcat.wiki/
