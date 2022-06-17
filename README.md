@@ -22,3 +22,6 @@ see https://guide.fatcat.wiki/
 
 #### Altmetrics     
 [Altmetric.com API](https://api.altmetric.com/v1/doi/10.1126/sciadv.abe4724)     
+
+#### CORE    
+https://core.ac.uk/
