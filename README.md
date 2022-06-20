@@ -5,13 +5,17 @@ Links to different datasets of publication metadata and citations
 
 [Filters](https://docs.openalex.org/api/get-lists-of-entities/filter-entity-lists)
 
-[KTH all years grouped by OA status](https://api.openalex.org/works?filter=institutions.id:I86987016&group_by=oa_status)        
+[KTH all years grouped by OA status](https://api.openalex.org/works?filter=institutions.id:I86987016&group_by=oa_status) 
+````
+https://api.openalex.org/works?filter=institutions.id:I86987016&group_by=oa_status
+````
 [KTH 2022-01-01 to 2022-06-20 grouped by OA status](https://api.openalex.org/works?filter=institutions.id:I86987016,from_publication_date:2022-01-01,to_publication_date:2022-06-20&group_by=oa_status)  
+````
+https://api.openalex.org/works?filter=institutions.id:I86987016,from_publication_date:2022-01-01,to_publication_date:2022-06-20&group_by=oa_status
+````
 [KTH 2022-01-01 to 2022-06-20 grouped by publisher](https://api.openalex.org/works?filter=institutions.id:I86987016,from_publication_date:2022-01-01,to_publication_date:2022-06-20&group_by=host_venue.publisher)    
-
 ````
 https://api.openalex.org/works?filter=institutions.id:I86987016,from_publication_date:2022-01-01,to_publication_date:2022-06-20&group_by=host_venue.publisher
-
 ````
 
 -------------------------
