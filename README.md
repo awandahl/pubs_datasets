@@ -6,6 +6,7 @@ Links to different datasets of publication metadata and citations
 
 [Jason Priem´s presentation at NIH June 9th 2022](https://videocast.nih.gov/watch=45658)    
 
+[Code](https://github.com/ourresearch)    
 
 [AWS S3 Explorer](http://openalex.s3.amazonaws.com/browse.html)
 ````
