@@ -3,6 +3,10 @@ Links to different datasets of publication metadata and citations
 
 #### [OpenAlex](https://openalex.org/) will replace [Microsoft Academic Graph](https://www.microsoft.com/en-us/research/project/academic/articles/microsoft-academic-to-expand-horizons-with-community-driven-approach/) in Dec 2021     
 
+[AWS S3 Explorer](http://openalex.s3.amazonaws.com/browse.html)
+````
+http://openalex.s3.amazonaws.com/browse.html
+````
 [Filters](https://docs.openalex.org/api/get-lists-of-entities/filter-entity-lists)
 
 [KTH all years grouped by OA status](https://api.openalex.org/works?filter=institutions.id:I86987016&group_by=oa_status) 
