@@ -50,3 +50,8 @@ see https://guide.fatcat.wiki/
 
 #### CORE    
 https://core.ac.uk/
+
+#### Metadoor
+
+https://meli.org.il/wp-content/uploads/2021/12/Chani-Yehuda_Open-Metadata-Platform-MELI.pdf     
+
