@@ -15,6 +15,12 @@ http://openalex.s3.amazonaws.com/browse.html
 ````
 [Filters](https://docs.openalex.org/api/get-lists-of-entities/filter-entity-lists)
 
+Single work by DOI
+
+````
+https://api.openalex.org/works/https://doi.org/10.3390/s22135064
+````
+
 [KTH all years grouped by OA status](https://api.openalex.org/works?filter=institutions.id:I86987016&group_by=oa_status) 
 ````
 https://api.openalex.org/works?filter=institutions.id:I86987016&group_by=oa_status
