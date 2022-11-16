@@ -30,6 +30,14 @@
 		"version": "publishedVersion",
 		"license": "cc-by"
 	},
+	"event": {
+		"name": "NordiCHI '20: Shaping Experiences, Shaping Society",
+		"location": "Tallinn Estonia",
+		"acronym": "NordiCHI '20"
+	},
+	"container-title": [
+		"Proceedings of the 11th Nordic Conference on Human-Computer Interaction: Shaping Experiences, Shaping Society"
+	],
 	"type": "journal-article",
 	"open_access": {
 		"is_oa": true,
