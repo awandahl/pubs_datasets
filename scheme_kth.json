@@ -1,4 +1,4 @@
-// comments are not allowed but will be here anyway for now
+// comments are not allowed but will be added anyway for now
 {
 	"id": "https://openalex.org/W4285589102",
 	"doi": "https://doi.org/10.1038/s41467-022-29594-w",
@@ -31,15 +31,15 @@
 		"version": "publishedVersion",
 		"license": "cc-by"
 	},
-	"event": {
+	"event": { // Crossref
 		"name": "NordiCHI '20: Shaping Experiences, Shaping Society",
 		"location": "Tallinn Estonia",
 		"acronym": "NordiCHI '20"
 	},
-	"container-title": [
+	"container-title": [ //Crossref
 		"Proceedings of the 11th Nordic Conference on Human-Computer Interaction: Shaping Experiences, Shaping Society"
 	],
-	"type": "journal-article",
+	"type": "journal-article", // allowed types here
 	"open_access": {
 		"is_oa": true,
 		"oa_status": "gold",
@@ -54,7 +54,7 @@
 				"family": "Cowgill",
 				"given": "John B",
 				"orcid": "https://orcid.org/0000-0002-7968-8359",
-				"kthid": "u1t4sc3i",
+				"localId": "u1t4sc3i", //DiVA local id
 				"ResearcherID": "EQO-9910-2022",
 				"ScopusAuthorId": "56508361800",
 				"S2AuthorId": "5719000",
@@ -85,8 +85,73 @@
 				}
 			],
 			"raw_affiliation_string": "Department of Applied Physics, Science for Life Laboratory, KTH, Solna, Sweden."
+		},
+		{
+			"author_position": "middle",
+			"author": {
+				"id": "https://openalex.org/A4290340809",
+				"display_name": "Shubhashish M M Mukhopadhyay",
+				"orcid": null
+			},
+			"institutions": [
+				{
+					"id": "https://openalex.org/I40120149",
+					"display_name": "University of Oxford",
+					"ror": "https://ror.org/052gg0110",
+					"country_code": "GB",
+					"type": "education"
+				},
+				{
+					"id": null,
+					"display_name": "Structural Genomics Consortium, Nuffield Department of Medicine, University of Oxford, Roosevelt Drive, Oxford, OX3 7DQ, UK.",
+					"ror": null,
+					"country_code": null,
+					"type": null
+				},
+				{
+					"id": null,
+					"display_name": "Exscientia Ltd., The Schrödinger Building, Heatley Road, The Oxford Science Park, Oxford, OX4 4GE, UK.",
+					"ror": null,
+					"country_code": null,
+					"type": null
+				}
+			],
+			"raw_affiliation_string": "Centre for Medicines Discovery, Nuffield Department of Medicine, University of Oxford, Roosevelt Drive, Oxford, OX3 7DQ, UK."
+		},
+		{
+			"author_position": "last",
+			"author": {
+				"id": "https://openalex.org/A4288173904",
+				"display_name": "Katharina Duerr",
+				"orcid": "https://orcid.org/0000-0002-3245-4088"
+			},
+			"institutions": [
+				{
+					"id": "https://openalex.org/I40120149",
+					"display_name": "University of Oxford",
+					"ror": "https://ror.org/052gg0110",
+					"country_code": "GB",
+					"type": "education"
+				},
+				{
+					"id": null,
+					"display_name": "Structural Genomics Consortium, Nuffield Department of Medicine, University of Oxford, Roosevelt Drive, Oxford, OX3 7DQ, UK. katharina.duerr@omass.com.",
+					"ror": null,
+					"country_code": null,
+					"type": null
+				},
+				{
+					"id": null,
+					"display_name": "OMass Therapeutics, Ltd., The Schrödinger Building, Heatley Road, The Oxford Science Park, Oxford, OX4 4GE, UK. katharina.duerr@omass.com.",
+					"ror": null,
+					"country_code": null,
+					"type": null
+				}
+			],
+			"raw_affiliation_string": "Centre for Medicines Discovery, Nuffield Department of Medicine, University of Oxford, Roosevelt Drive, Oxford, OX3 7DQ, UK. katharina.duerr@omass.com."
 		}
 	],
+	"cited_by_count": 1, // OpenAlex
 	"biblio": {
 		"volume": "13",
 		"issue": "1",
@@ -113,6 +178,108 @@
 	],
 	"is_retracted": false,
 	"is_paratext": false,
+	"concepts": [
+		{
+			"id": "https://openalex.org/C194544171",
+			"wikidata": "https://www.wikidata.org/wiki/Q21105679",
+			"display_name": "Gating",
+			"level": 2,
+			"score": "0.9437765"
+		}
+	],
+	"mesh": [
+		{
+			"descriptor_ui": "D051670",
+			"descriptor_name": "Shaw Potassium Channels",
+			"qualifier_ui": "Q000737",
+			"qualifier_name": "chemistry",
+			"is_major_topic": false
+		}
+	],
+	"alternate_host_venues": [
+		{
+			"id": "https://openalex.org/V64187185",
+			"display_name": "Nature Communications",
+			"type": "journal",
+			"url": "https://www.nature.com/articles/s41467-022-29594-w.pdf",
+			"is_oa": true,
+			"version": "publishedVersion",
+			"license": "cc-by"
+		},
+		{
+			"id": "https://openalex.org/V4306400608",
+			"display_name": "Oxford - Oxford Academix",
+			"type": "repository",
+			"url": "https://jdc.jefferson.edu/cgi/viewcontent.cgi?article=1072&context=department_neuroscience",
+			"is_oa": true,
+			"version": "publishedVersion",
+			"license": "cc-by"
+		},
+		{
+			"id": null,
+			"display_name": "PMC",
+			"type": "repository",
+			"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287412",
+			"is_oa": true,
+			"version": "publishedVersion",
+			"license": null
+		},
+		{
+			"id": "https://openalex.org/V4306402450",
+			"display_name": "Research Square - Research Square",
+			"type": "repository",
+			"url": "https://www.researchsquare.com/article/rs-828003/latest.pdf",
+			"is_oa": true,
+			"version": "submittedVersion",
+			"license": "cc-by"
+		}
+	],
+	"referenced_works": [
+		"https://openalex.org/W1481997530",
+		"https://openalex.org/W1485442548"
+	],
+	"related_works": [
+		"https://openalex.org/W1559359156",
+		"https://openalex.org/W1982017552"
+	],
+	"ngrams_url": "https://api.openalex.org/works/W4285589102/ngrams",
+	"abstract_inverted_index": {
+		"Abstract": [
+			0
+		],
+		"the": [
+			23,
+			31,
+			35,
+			48,
+			57,
+			74,
+			86,
+			108,
+			113,
+			130,
+			149
+		],
+		"KCNC1": [
+			24
+		],
+		"gene": [
+			25
+		],
+		"causes": [
+			26
+		],
+		"severe": [
+			27
+		]
+	},
+	"cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4285589102",
+	"counts_by_year": [
+		{
+			"year": 2022,
+			"cited_by_count": 1
+		}
+	],
 	"updated_date": "2022-10-29T09:28:31.495946",
 	"created_date": "2022-07-16"
 }
