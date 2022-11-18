@@ -1,4 +1,3 @@
-// comments are not allowed but will be added anyway for now
 {
 	"id": "https://openalex.org/W4285589102",
 	"doi": "https://doi.org/10.1038/s41467-022-29594-w",
@@ -31,15 +30,15 @@
 		"version": "publishedVersion",
 		"license": "cc-by"
 	},
-	"event": { // Crossref
+	"event": {
 		"name": "NordiCHI '20: Shaping Experiences, Shaping Society",
 		"location": "Tallinn Estonia",
 		"acronym": "NordiCHI '20"
 	},
-	"container-title": [ //Crossref
+	"container-title": [
 		"Proceedings of the 11th Nordic Conference on Human-Computer Interaction: Shaping Experiences, Shaping Society"
 	],
-	"type": "journal-article", // allowed types here
+	"type": "journal-article",
 	"open_access": {
 		"is_oa": true,
 		"oa_status": "gold",
@@ -54,7 +53,7 @@
 				"family": "Cowgill",
 				"given": "John B",
 				"orcid": "https://orcid.org/0000-0002-7968-8359",
-				"localId": "u1t4sc3i", //DiVA local id
+				"localId": "u1t4sc3i",
 				"ResearcherID": "EQO-9910-2022",
 				"ScopusAuthorId": "56508361800",
 				"S2AuthorId": "5719000",
@@ -151,7 +150,7 @@
 			"raw_affiliation_string": "Centre for Medicines Discovery, Nuffield Department of Medicine, University of Oxford, Roosevelt Drive, Oxford, OX3 7DQ, UK. katharina.duerr@omass.com."
 		}
 	],
-	"cited_by_count": 1, // OpenAlex
+	"cited_by_count": 1,
 	"biblio": {
 		"volume": "13",
 		"issue": "1",
