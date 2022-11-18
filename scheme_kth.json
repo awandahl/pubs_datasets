@@ -10,7 +10,7 @@
 		"openalex": "https://openalex.org/W4285589102",
 		"doi": "https://doi.org/10.1038/s41467-022-29594-w",
 		"pmid": "https://pubmed.ncbi.nlm.nih.gov/35840580",
-		"pmc": "9287412",
+		"pmcid": "9287412",
 		"ut": "000826101400018",
 		"eid": "2-s2.0-85134215136",
 		"diva": "diva2:1684694",
@@ -57,8 +57,8 @@
 				"orcid": "https://orcid.org/0000-0002-7968-8359",
 				"diva": "u1t4sc3i",
 				"researcherid": "EQO-9910-2022",
-				"Scopus_author_id": "56508361800",
-				"s2_Author_id": "5719000",
+				"scopus_author_id": "56508361800",
+				"s2_author_id": "5719000",
 				"google_scholar": null
 			},
 			"institutions": [
