@@ -1,6 +1,8 @@
 # pubs_datasets
 
-Links to different datasets of publication metadata and citations
+List of API:s (MIT)  https://libguides.mit.edu/c.php?g=1253643&p=9182313    
+
+Links to different datasets of publication metadata and citations    
 
 #### [OpenAlex](https://openalex.org/) will replace [Microsoft Academic Graph](https://www.microsoft.com/en-us/research/project/academic/articles/microsoft-academic-to-expand-horizons-with-community-driven-approach/) in Dec 2021   
 
