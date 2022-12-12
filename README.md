@@ -35,6 +35,10 @@ https://api.openalex.org/works?filter=institutions.id:I86987016,from_publication
 ````
 https://api.openalex.org/works?filter=institutions.id:I86987016,from_publication_date:2022-01-01,to_publication_date:2022-06-20&group_by=host_venue.publisher
 ````
+[KTH 2022-01-01 och framåt och IEEE grupperat på OA-status](https://api.openalex.org/works?filter=institutions.id:I86987016,from_publication_date:2022-01-01,to_publication_date:2022-06-20&group_by=host_venue.publisher](https://api.openalex.org/works?filter=institutions.id:I86987016,from_publication_date:2022-01-01,host_venue.publisher:Institute%20of%20Electrical%20and%20Electronics%20Engineers&group_by=oa_status)
+````
+https://api.openalex.org/works?filter=institutions.id:I86987016,from_publication_date:2022-01-01,host_venue.publisher:Institute%20of%20Electrical%20and%20Electronics%20Engineers&group_by=oa_status
+````
 
 #### OA-report    
 
