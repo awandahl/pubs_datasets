@@ -39,7 +39,10 @@ https://api.openalex.org/works?filter=institutions.id:I86987016,from_publication
 ````
 https://api.openalex.org/works?filter=institutions.id:I86987016,from_publication_date:2022-01-01,host_venue.publisher:Institute%20of%20Electrical%20and%20Electronics%20Engineers&group_by=oa_status
 ````
-
+[KTH 2022-01-01 och framåt grupperat på authorships.is_corresponding](https://api.openalex.org/works?filter=institutions.id:I86987016,from_publication_date:2022-01-01&group_by=authorships.is_corresponding)
+````
+https://api.openalex.org/works?filter=institutions.id:I86987016,from_publication_date:2022-01-01&group_by=authorships.is_corresponding
+````
 #### OA-report    
 
 https://github.com/ourresearch/openalex-api-tutorials/blob/develop/notebooks/institutions/oa-percentage.ipynb    
