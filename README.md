@@ -43,6 +43,11 @@ https://api.openalex.org/works?filter=institutions.id:I86987016,from_publication
 ````
 https://api.openalex.org/works?filter=institutions.id:I86987016,from_publication_date:2022-01-01&group_by=authorships.is_corresponding
 ````
+
+https://api.openalex.org/works?filter=institutions.id:I86987016,from_publication_date:2022-01-01,corresponding_institution_ids:I86987016    
+https://api.openalex.org/works?filter=corresponding_institution_ids:I86987016,from_publication_date:2022-01-01
+
+
 #### OA-report    
 
 https://github.com/ourresearch/openalex-api-tutorials/blob/develop/notebooks/institutions/oa-percentage.ipynb    
